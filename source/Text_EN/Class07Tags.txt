@@ -1,0 +1,46 @@
+
+tagSkillClassName07=Testadin
+tagSkillClassName0107=SoldierTest
+tagSkillClassName0207=DemoTest
+tagSkillClassName0307=OcculTest
+tagSkillClassName0407=NightTest
+tagSkillClassName0507=ArcaTest
+tagSkillClassName0607=ShamaTest
+
+tagSkillClassDescription07=Testadins gonna test your mastery skillz.
+
+#Class07
+tagClass07SkillName00=Testadin
+tagClass07SkillDescription00=Tester Approved.
+
+tagClass07SkillName01A=Unsavagery
+tagClass07SkillDescription01A=The heat of battle makes you kind of a wuss. When used as your default weapon attack, Unsavegery reduces the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the penalties.
+tagClass07SkillName01B=Angry Wuss
+tagClass07SkillDescription01B=Angry anger rage mad, so mad.
+tagClass07SkillName01C=Lightning is OP
+tagClass07SkillDescription01C=Lightning was too weak, so I made it stronger.
+tagClass07SkillName01D=Two-Handed Broken Skill
+tagClass07SkillDescription01D=Two-Handers needed a buff. ^oThis technique requires a two-handed weapon, melee or ranged.
+
+tagClass07SkillName02A=Sweet Pact
+tagClass07SkillDescription02A=Totally sweet aura for you and your allies. ^oThis ability must be toggled to maintain its effect.
+tagClass07SkillName02B=Healthy Pact
+tagClass07SkillDescription02B=Bonus Health cause it made sense at the time. But I picked the flat value instead of the % Modifier because I wasn't paying attention.
+tagClass07SkillName02C=Hearty Wilds
+tagClass07SkillDescription02C=Part of this balanced skill set.
+
+tagClass07SkillName03A=Totally Not Grasping Vines
+tagClass07SkillDescription03A=Buncha vines, because reasons.
+tagClass07SkillName03B=Totally Not Entangling Vines
+tagClass07SkillDescription03B=The not Grasping Vines get better at whatever it is they do.
+
+tagClass07SkillName04A=Hungry Hunger
+tagClass07SkillDescription04A=Bonus life steal, or something. ^oRequires a two-handed melee weapon. Activates off of default weapon attacks.
+
+tagClass07SkillName05A=Much Strength, Very Skill
+tagClass07SkillDescription05A=Become much strong. ^oRequires a two-handed melee weapon.
+
+tagClass07SkillName06A=Over 9000heaval
+tagClass07SkillDescription06A=Instagib anything with this. ^oRequires a two-handed melee weapon and activates off of default weapon attacks.
+
+

@@ -1,0 +1,20 @@
+
+tagAreaName=Testing Crossroads
+
+tagNPC=Scripted Villain
+tagQuestGiver=Lazy NPC
+tagBoss=Dangerous Boss
+
+tagHelm=Cool Helmet
+
+tagDoor=Fancy Door
+
+tagPotionChest=Chest of Potions and Pants
+tagGreatChest=Chest of Great Stuff
+
+tagEnemy_Boar_A01=Test Pig
+tagEnemy_Boar_B01=Test Angry Pig
+tagEnemy_Prawn_A01=Test Bug
+tagEnemy_Prawn_B01=Test Bigger Bug
+
+tagEnemyHero_Boar01=Pigg'or the Piggiest
