@@ -7,29 +7,29 @@ tagSkillClassName0407=Operative
 tagSkillClassName0507=Mad Scientist
 tagSkillClassName0607=Oxymoron
 
-tagSkillClassDescription07=The Engineers of the imperial army were a highly educated group of men and women responsible for impressive war machines and other efficient means of devastation. They rarely saw any frontline action before the grim dawn, but are more than capable of unleashing contraptions on the fly to distract and destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
+tagSkillClassDescription07=The Engineers of the imperial army were a highly educated group of men and women responsible for immense war machines and other efficient means of destruction. They rarely saw any frontline action before the grim dawn, but are nonetheless capable of unleashing contraptions on the fly to destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
 
 #Class07
 tagClass07SkillName00=Engineer
 tagClass07SkillDescription00=Eureka!
 
 tagClass07SkillName01A=Shirley's Shock Shot
-tagClass07SkillDescription01A=Shirley was the first to invent a powerful ammunition replacement which was both cheap and easy to produce. These pellets are electrified and have plenty of punch, enough to occasionally shock an enemy off their feet. ^oRequires a ranged weapon. Default attack.
+tagClass07SkillDescription01A=Shirley was the first to invent a powerful firearm augment which was both cheap and easy to mass-produce. The apparatus connects to ranged weapons and will electrify rounds automatically. These electrified rounds are powerful enough to occasionally shock an enemy off their feet. ^oRequires a ranged weapon. Default attack.
 tagClass07SkillName01B=Corona Charge Cartridges
-tagClass07SkillDescription01B=Improves the shock shot to also release a devastating corona of electric energy when hitting a target. The pellets vibrate with potential.
+tagClass07SkillDescription01B=Improves the shock apparatus to also release a devastating corona of electric energy when hitting a target. The pellets vibrate with potential.
 tagClass07SkillName01C=Curious Condenser
-tagClass07SkillDescription01C=The shock shot releases energy into the air, occasionally condensing it into a storm cloud which will strike enemies repeatedly.
+tagClass07SkillDescription01C=The shock apparatus releases excess energy into the air, occasionally condensing it into a storm cloud which will strike enemies repeatedly.
 tagClass07SkillName01D=Rocket Rounds
-tagClass07SkillDescription01D=A bulky adaptation of Shirley's original desgin. Cannot be fired as often, but packs a much greater punch.
+tagClass07SkillDescription01D=A bulky revision of Shirley's original desgin, using an arcane amplifier to add a bit of heft to fired rounds. Cannot be fired as quickly, but packs a much greater punch.
 
 tagClass07SkillName02A=Pascal's Pneumatic Power-Palms
 tagClass07SkillDescription02A=Pascal was a rowdy one, obsessed with lining armor with special pneumatic devices to increase the stopping power of punches. Unfortunately, his design is surprisingly useless when it comes to swinging a weapon. ^oRequires you to be unarmed. Default attack.
 tagClass07SkillName02B=Grandmaster's Greasy Grip
 tagClass07SkillDescription02B=A technique inspired by the grandmaster engineer of the imperial army, whose hands always seemed to be covered in oil.
 tagClass07SkillName02C=Handy Hazard Hurler
-tagClass07SkillDescription02C=Every fourth punch will cause an explosive charge to be detonated in your enemy's face. Devious, Dangerous, Imperial Engineering.
+tagClass07SkillDescription02C=Every punch will cause an explosive charge to be detonated in your enemy's face. Devious, Dangerous, Imperial Engineering.
 tagClass07SkillName02D=Overpowered Oscillators
-tagClass07SkillDescription02D=Pascal's original design can be tweaked to output much more power, but initial testing proved that human arms can't quite handle the stress and are prone to being violently launched across the room. Anyone crazy enough to perform these tweaks had better be careful, but the sheer increase in power may offset lost speed.
+tagClass07SkillDescription02D=Pascal's original design can be tweaked to output much more power, but initial testing proved human arms can't handle the stress. In fact, the first tester's arms launched off his body like missiles after a few moments of intense high-frequency punching. Since having arms is a prerequisite for punching, users of this tweak are advised to slow down a bit.
 
 tagClass07SkillName03A=Totally Not Grasping Vines
 tagClass07SkillDescription03A=Buncha vines, because reasons.
