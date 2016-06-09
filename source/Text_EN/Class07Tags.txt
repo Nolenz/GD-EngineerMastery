@@ -1,33 +1,35 @@
 
-tagSkillClassName07=Testadin
-tagSkillClassName0107=SoldierTest
-tagSkillClassName0207=DemoTest
-tagSkillClassName0307=OcculTest
-tagSkillClassName0407=NightTest
-tagSkillClassName0507=ArcaTest
-tagSkillClassName0607=ShamaTest
+tagSkillClassName07=Engineer
+tagSkillClassName0107=Machinist
+tagSkillClassName0207=Tinkerer
+tagSkillClassName0307=Dark Technologist
+tagSkillClassName0407=Operative
+tagSkillClassName0507=Mad Scientist
+tagSkillClassName0607=Oxymoron
 
-tagSkillClassDescription07=Testadins gonna test your mastery skillz.
+tagSkillClassDescription07=The Engineers of the imperial army were a highly educated group of men and women responsible for impressive war machines and other efficient means of devastation. They rarely saw any frontline action before the grim dawn, but are more than capable of unleashing contraptions on the fly to distract and destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
 
 #Class07
-tagClass07SkillName00=Testadin
-tagClass07SkillDescription00=Tester Approved.
+tagClass07SkillName00=Engineer
+tagClass07SkillDescription00=Eureka!
 
-tagClass07SkillName01A=Unsavagery
-tagClass07SkillDescription01A=The heat of battle makes you kind of a wuss. When used as your default weapon attack, Unsavegery reduces the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the penalties.
-tagClass07SkillName01B=Angry Wuss
-tagClass07SkillDescription01B=Angry anger rage mad, so mad.
-tagClass07SkillName01C=Lightning is OP
-tagClass07SkillDescription01C=Lightning was too weak, so I made it stronger.
-tagClass07SkillName01D=Two-Handed Broken Skill
-tagClass07SkillDescription01D=Two-Handers needed a buff. ^oThis technique requires a two-handed weapon, melee or ranged.
+tagClass07SkillName01A=Shirley's Shock Shot
+tagClass07SkillDescription01A=Shirley was the first to invent a powerful ammunition replacement which was both cheap and easy to produce. These pellets are electrified and have plenty of punch, enough to occasionally shock an enemy off their feet. ^oRequires a ranged weapon. Default attack.
+tagClass07SkillName01B=Corona Charge Cartridges
+tagClass07SkillDescription01B=Improves the shock shot to also release a devastating corona of electric energy when hitting a target. The pellets vibrate with potential.
+tagClass07SkillName01C=Curious Condenser
+tagClass07SkillDescription01C=The shock shot releases energy into the air, occasionally condensing it into a storm cloud which will strike enemies repeatedly.
+tagClass07SkillName01D=Rocket Rounds
+tagClass07SkillDescription01D=A bulky adaptation of Shirley's original desgin. Cannot be fired as often, but packs a much greater punch.
 
-tagClass07SkillName02A=Sweet Pact
-tagClass07SkillDescription02A=Totally sweet aura for you and your allies. ^oThis ability must be toggled to maintain its effect.
-tagClass07SkillName02B=Healthy Pact
-tagClass07SkillDescription02B=Bonus Health cause it made sense at the time. But I picked the flat value instead of the % Modifier because I wasn't paying attention.
-tagClass07SkillName02C=Hearty Wilds
-tagClass07SkillDescription02C=Part of this balanced skill set.
+tagClass07SkillName02A=Pascal's Pneumatic Power-Palms
+tagClass07SkillDescription02A=Pascal was a rowdy one, obsessed with lining armor with special pneumatic devices to increase the stopping power of punches. Unfortunately, his design is surprisingly useless when it comes to swinging a weapon. ^oRequires you to be unarmed. Default attack.
+tagClass07SkillName02B=Grandmaster's Greasy Grip
+tagClass07SkillDescription02B=A technique inspired by the grandmaster engineer of the imperial army, whose hands always seemed to be covered in oil.
+tagClass07SkillName02C=Handy Hazard Hurler
+tagClass07SkillDescription02C=Every fourth punch will cause an explosive charge to be detonated in your enemy's face. Devious, Dangerous, Imperial Engineering.
+tagClass07SkillName02D=Overpowered Oscillators
+tagClass07SkillDescription02D=Pascal's original design can be tweaked to output much more power, but initial testing proved that human arms can't quite handle the stress and are prone to being violently launched across the room. Anyone crazy enough to perform these tweaks had better be careful, but the sheer increase in power may offset lost speed.
 
 tagClass07SkillName03A=Totally Not Grasping Vines
 tagClass07SkillDescription03A=Buncha vines, because reasons.
