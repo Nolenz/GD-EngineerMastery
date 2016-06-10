@@ -20,7 +20,7 @@ tagClass07SkillDescription01B=Improves the shock apparatus to also cause rounds 
 tagClass07SkillName01C=Curious Condenser
 tagClass07SkillDescription01C=The shock apparatus releases excess energy into the air, occasionally condensing it into a storm cloud which will strike enemies repeatedly.
 tagClass07SkillName01D=Rocket Rounds
-tagClass07SkillDescription01D=A bulky revision of Shirley's original desgin, using an arcane amplifier to add a bit of heft to fired rounds. Cannot be fired as quickly, but packs a much greater punch.
+tagClass07SkillDescription01D=A bulky revision of Shirley's original design, using an arcane amplifier to add a bit of heft to fired rounds. Requires more energy, but packs a much greater punch.
 
 tagClass07SkillName02A=Pascal's Pneumatic Power-Palms
 tagClass07SkillDescription02A=Pascal was a rowdy one, obsessed with lining armor with special pneumatic devices to increase the stopping power of punches. Unfortunately, his design is surprisingly useless when it comes to swinging a weapon. ^oRequires you to be unarmed. Default attack.
