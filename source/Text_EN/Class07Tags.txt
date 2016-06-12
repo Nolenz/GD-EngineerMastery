@@ -30,6 +30,8 @@ tagClass07SkillName02C=Handy Hazard Hurler
 tagClass07SkillDescription02C=Every punch will cause an explosive charge to be detonated in your enemy's face. Devious, Dangerous, Imperial Engineering.
 tagClass07SkillName02D=Overpowered Oscillators
 tagClass07SkillDescription02D=Pascal's original design can be tweaked to output much more power, but initial testing proved human arms can't handle the stress. In fact, the first tester's arms launched off his body like missiles after a few moments of intense high-frequency punching. Since having arms is a prerequisite for punching, users of this tweak are advised to slow down a bit.
+tagClass07SkillName02E=Ignoring Safety Labels
+tagClass07SkillDescription02E=Safety be damned! You want power, and you're confident your arms can handle these things at full capacity. You laugh at the thought of your arms shooting off your torso like missiles! Probably because that's actually a pretty funny thought to have.
 
 tagClass07SkillName03A=Totally Not Grasping Vines
 tagClass07SkillDescription03A=Buncha vines, because reasons.
