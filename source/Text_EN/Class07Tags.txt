@@ -2,7 +2,7 @@
 tagSkillClassName07=Engineer
 tagSkillClassName0107=Machinist
 tagSkillClassName0207=Tinkerer
-tagSkillClassName0307=Dark Technologist
+tagSkillClassName0307=Sinister Technomage
 tagSkillClassName0407=Operative
 tagSkillClassName0507=Mad Scientist
 tagSkillClassName0607=Oxymoron
@@ -33,8 +33,9 @@ tagClass07SkillDescription02D=Pascal's original design can be tweaked to output 
 tagClass07SkillName02E=Ignoring Safety Labels
 tagClass07SkillDescription02E=Safety be damned! You want power, and you're confident your arms can handle these things at full capacity. You laugh at the thought of your arms shooting off your torso like missiles! Probably because that's actually a pretty funny thought to have.
 
-tagClass07SkillName03A=Totally Not Grasping Vines
-tagClass07SkillDescription03A=Buncha vines, because reasons.
+tagClass07SkillName03A=Harry's Hands-free Hyper-gadgetry
+tagClass07SkillDescription03A=Harry was part of the group of imperial engineers who advocated unarmed combat. In order to impress his superiors and convince them to his cause, he focused on delicate processes for improving gadgets, all of which require the speed and freedom provided by not carrying a weapon to be viable. ^oRequires you to be unarmed.
+
 tagClass07SkillName03B=Totally Not Entangling Vines
 tagClass07SkillDescription03B=The not Grasping Vines get better at whatever it is they do.
 
