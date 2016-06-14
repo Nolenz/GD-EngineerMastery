@@ -7,7 +7,7 @@ tagSkillClassName0407=Operative
 tagSkillClassName0507=Mad Scientist
 tagSkillClassName0607=Oxymoron
 
-tagSkillClassDescription07=The Engineers of the imperial army were a highly educated group of men and women responsible for immense war machines and other efficient means of destruction. They rarely saw any frontline action before the grim dawn, but are nonetheless capable of unleashing contraptions on the fly to destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
+tagSkillClassDescription07=The Engineers of the imperial army were a highly educated group of men and women responsible for immense war machines and other efficient means of destruction. They rarely saw any front-line action before the grim dawn, but are nonetheless capable of unleashing contraptions on the fly to destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
 
 #Class07
 tagClass07SkillName00=Engineer
@@ -36,8 +36,8 @@ tagClass07SkillDescription02E=Safety be damned! You want power, and you're confi
 tagClass07SkillName03A=Harry's Hands-free Hyper-gadgetry
 tagClass07SkillDescription03A=Harry was part of the group of imperial engineers who advocated unarmed combat. In order to impress his superiors and convince them to his cause, he focused on delicate processes for improving gadgets, all of which require the speed and freedom provided by not carrying a weapon to be viable. ^oRequires you to be unarmed.
 
-tagClass07SkillName03B=Totally Not Entangling Vines
-tagClass07SkillDescription03B=The not Grasping Vines get better at whatever it is they do.
+tagClass07SkillName04A=Samuel's Stationary Sentry
+tagClass07SkillDescription04A=A simple stationary turret which will rapidly fill enemies with lead. Samuel had plans to make his creation mobile, but never figured out how to make the bot not fall over as it moved around. This version of the bot has the power intended for movement routed into the firing mechanisms. Perhaps you can do better?
 
 tagClass07SkillName04A=Hungry Hunger
 tagClass07SkillDescription04A=Bonus life steal, or something. ^oRequires a two-handed melee weapon. Activates off of default weapon attacks.
