@@ -1,0 +1,51 @@
+
+tagSkillClassName07=Engineer
+tagSkillClassName0107=Machinist
+tagSkillClassName0207=Tinkerer
+tagSkillClassName0307=Sinister Technomage
+tagSkillClassName0407=Operative
+tagSkillClassName0507=Mad Scientist
+tagSkillClassName0607=Oxymoron
+
+tagSkillClassDescriptionEngineer=The Engineers of the imperial army were a highly educated group of men and women responsible for immense war machines and other efficient means of destruction. They rarely saw any front-line action before the grim dawn, but are nonetheless capable of unleashing contraptions on the fly to destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
+
+#ClassEngineer
+tagClassEngineerSkillName00=Engineer
+tagClassEngineerSkillDescription00=Eureka!
+
+tagClassEngineerSkillName01A=Shirley's Shock Shot
+tagClassEngineerSkillDescription01A=Shirley was the first to invent a powerful firearm augment which was both cheap and easy to mass-produce. The apparatus connects to ranged weapons and will electrify rounds automatically. These electrified rounds are powerful enough to occasionally shock an enemy off their feet. ^oRequires a ranged weapon. Default attack.
+tagClassEngineerSkillName01B=Corona Charge Cartridges
+tagClassEngineerSkillDescription01B=Improves the shock apparatus to also cause rounds to release a devastating corona of electric energy when hitting a target.
+tagClassEngineerSkillName01C=Curious Condenser
+tagClassEngineerSkillDescription01C=Adds an aether condenser to the shock apparatus, causing all fired projectiles to become very brittle and brimming with aetherial energy just waiting to be let out.
+tagClassEngineerSkillName01D=Rocket Rounds
+tagClassEngineerSkillDescription01D=A bulky revision of Shirley's original design, using an arcane amplifier to add a bit of magical heft to fired rounds. Requires more energy, but packs a much greater punch.
+
+tagClassEngineerSkillName02A=Pascal's Pneumatic Power-Palms
+tagClassEngineerSkillDescription02A=Pascal was a rowdy one, obsessed with lining armor with special pneumatic devices to increase the stopping power of punches. The devices take a moment to warm up, but will increase your punching power greatly after that. Unfortunately, his design is surprisingly useless when it comes to swinging a weapon. ^oRequires you to be unarmed. Default attack.
+tagClassEngineerSkillName02B=Grandmaster's Greasy Grip
+tagClassEngineerSkillDescription02B=A technique inspired by the grandmaster engineer of the imperial army, whose hands always seemed to be covered in oil.
+tagClassEngineerSkillName02C=Handy Hazard Hurler
+tagClassEngineerSkillDescription02C=Every punch will cause small explosive devices to be launched forward into several nearby enemies' faces at extremely high speeds. Devious, Dangerous, Imperial Engineering.
+tagClassEngineerSkillName02D=Overpowered Oscillators
+tagClassEngineerSkillDescription02D=Pascal's original design can be tweaked to output much more power, but initial testing proved human arms can't handle the stress. In fact, the first tester's arms launched off his body like missiles after a few moments of intense high-frequency punching. Since having arms is a prerequisite for punching, users of this tweak are advised to slow down a bit.
+tagClassEngineerSkillName02E=Ignoring Safety Labels
+tagClassEngineerSkillDescription02E=Safety be damned! You want power, and you're confident your arms can handle these things at full capacity. You laugh at the thought of your arms shooting off your torso like missiles! Probably because that's actually a pretty funny thought to have.
+
+tagClassEngineerSkillName03A=Harry's Hands-free Hyper-gadgetry
+tagClassEngineerSkillDescription03A=Harry was part of the group of imperial engineers who advocated unarmed combat. In order to impress his superiors and convince them to his cause, he focused on delicate processes for improving gadgets, all of which require the speed and freedom provided by not carrying a weapon to be viable. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName04A=Samuel's Stationary Sentry
+tagClassEngineerSkillDescription04A=A simple stationary turret which will rapidly fill enemies with lead. Samuel had plans to make his creation mobile, but never figured out how to make the bot not fall over as it moved around. This version of the bot has the power intended for movement routed into the firing mechanisms. Perhaps you can do better?
+
+tagClassEngineerSkillName04A=Hungry Hunger
+tagClassEngineerSkillDescription04A=Bonus life steal, or something. ^oRequires a two-handed melee weapon. Activates off of default weapon attacks.
+
+tagClassEngineerSkillName05A=Much Strength, Very Skill
+tagClassEngineerSkillDescription05A=Become much strong. ^oRequires a two-handed melee weapon.
+
+tagClassEngineerSkillName06A=Over 9000heaval
+tagClassEngineerSkillDescription06A=Instagib anything with this. ^oRequires a two-handed melee weapon and activates off of default weapon attacks.
+
+
