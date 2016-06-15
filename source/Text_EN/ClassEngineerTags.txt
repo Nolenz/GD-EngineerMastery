@@ -39,13 +39,4 @@ tagClassEngineerSkillDescription03A=Harry was part of the group of imperial engi
 tagClassEngineerSkillName04A=Samuel's Stationary Sentry
 tagClassEngineerSkillDescription04A=A simple stationary turret which will rapidly fill enemies with lead. Samuel had plans to make his creation mobile, but never figured out how to make the bot not fall over as it moved around. This version of the bot has the power intended for movement routed into the firing mechanisms. Perhaps you can do better?
 
-tagClassEngineerSkillName04A=Hungry Hunger
-tagClassEngineerSkillDescription04A=Bonus life steal, or something. ^oRequires a two-handed melee weapon. Activates off of default weapon attacks.
-
-tagClassEngineerSkillName05A=Much Strength, Very Skill
-tagClassEngineerSkillDescription05A=Become much strong. ^oRequires a two-handed melee weapon.
-
-tagClassEngineerSkillName06A=Over 9000heaval
-tagClassEngineerSkillDescription06A=Instagib anything with this. ^oRequires a two-handed melee weapon and activates off of default weapon attacks.
-
-
+tagClassEngineerPetSentry=Sentry Gun
