@@ -54,3 +54,9 @@ tagClassEngineerSkillDescription05B=It is a well known fact that aether energy i
 
 tagClassEngineerSkillName05C=Overcharged Ordnance
 tagClassEngineerSkillDescription05C=All of this aether nonsense really corrupted the initial goal of the Cannonball project: Crowd control. These modifications aim to help bring the project back to its roots.
+
+tagClassEngineerSkillName06A=Tommy's Turf Turner
+tagClassEngineerSkillDescription06A=Tommy saw the appeal of unarmed techniques and gadgets, but not so much for combat. He started using powerful arm augments to help him do his gardening work, and it worked quite well for turning soil. Higher-ups caught wind of this, and asked for his methods to be upgraded for combat use. Reluctantly, Tommy made the required tweaks and his gardening tool became a powerful ground-pound. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName06B=Pyro Punch
+tagClassEngineerSkillDescription06B=Adds a bit of power and a bit of fire. The added power is just enough to start knocking certain targets off their feet.
