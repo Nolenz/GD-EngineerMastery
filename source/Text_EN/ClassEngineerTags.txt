@@ -48,3 +48,9 @@ tagClassEngineerSkillDescription04C=Prolonged use of the sentry has given you an
 
 tagClassEngineerSkillName05A=Connie's Charged Cannonball
 tagClassEngineerSkillDescription05A=With a bit of help from some of her arcanist friends, Connie created a gadget which allowed a standard firearm to propel a volatile cannonball forward. With a bit of aetherial energy and a few quick movements to set up a shot, anything is possible! ^oRequires a ranged weapon.
+
+tagClassEngineerSkillName05B=Rapid Replicating Rig
+tagClassEngineerSkillDescription05B=It is a well known fact that aether energy is strange, unpredictable, and alien. However, its effects start to get especially strange when you manage to compress enough of it into one small place. Increasing efforts to improve the cannonball firing method led to an amusing discovery: more cannonballs!
+
+tagClassEngineerSkillName05C=Overcharged Ordnance
+tagClassEngineerSkillDescription05C=All of this aether nonsense really corrupted the initial goal of the Cannonball project: Crowd control. These modifications aim to help bring the project back to its roots.
