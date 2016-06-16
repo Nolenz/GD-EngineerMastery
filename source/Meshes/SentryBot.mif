@@ -17,7 +17,9 @@ AttachPoint
 AttachPoint
 {
     name   = "HeadFXUP"
-    origin = (0.000000, 0.810322, 0.000000)
+    parent = "Bone001"
+    entity = "records\fx\ambient\fx_firecampfire01_smoldering_sm.dbr"
+    origin = (0.000000, 0.410322, 0.000000)
     xAxis  = (1.000000, 0.000000, 0.000000)
     yAxis  = (0.000000, 1.000000, 0.000000)
     zAxis  = (0.000000, 0.000000, 1.000000)
@@ -108,4 +110,9 @@ AttachPoint
     xAxis  = (1.000000, 0.000000, 0.000000)
     yAxis  = (0.000000, 1.000000, 0.000000)
     zAxis  = (0.000000, 0.000000, 1.000000)
+}
+CreateEntity
+{
+    attach = "HeadFXUP"
+    entity = "records\fx\ambient\fx_firecampfire01_smoldering_sm.dbr"
 }

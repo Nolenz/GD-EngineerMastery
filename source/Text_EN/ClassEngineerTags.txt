@@ -45,3 +45,6 @@ tagClassEngineerSkillDescription04B=From using the sentry in combat, you've lear
 
 tagClassEngineerSkillName04C=Iconic Imitation: Sentry
 tagClassEngineerSkillDescription04C=Prolonged use of the sentry has given you an idea. You have gained the ability to sacrifice your movement speed for the ability to take on aspects of your Sentry Gun. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName05A=text
+tagClassEngineerSkillDescription05A=text
