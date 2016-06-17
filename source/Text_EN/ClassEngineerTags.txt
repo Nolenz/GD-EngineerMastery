@@ -60,3 +60,13 @@ tagClassEngineerSkillDescription06A=Tommy saw the appeal of unarmed techniques a
 
 tagClassEngineerSkillName06B=Pyro Punch
 tagClassEngineerSkillDescription06B=Adds a bit of power and a bit of fire. The added power is just enough to start knocking certain targets off their feet.
+
+tagClassEngineerSkillName07A=Stanley's Safe Space 
+tagClassEngineerSkillDescription07A=This "Safe Space" machine keeps your enemies at bay with invisible, punishing waves of energy for a short time before breaking down. Stanley made great efforts to sustain the machine longer, but it has the unfortunate tendency of tearing itself apart. This version of the machine is 30% less likely to maliciously reorganize its creator's internal organs. ^oWill remain active for 10 seconds. Time active and range increases with skill level.
+tagClassEngineerPetSafeSpace=Safe Space Generator
+
+tagClassEngineerSkillName07B=Lessons Learned: Safe Space 
+tagClassEngineerSkillDescription07B=xx
+
+tagClassEngineerSkillName07C=Imitation: Safe Space
+tagClassEngineerSkillDescription07C=xx
