@@ -70,3 +70,12 @@ tagClassEngineerSkillDescription07B=Use of the Safe Space Bot has led you to the
 
 tagClassEngineerSkillName07C=Iconic Imitation: Safe Space
 tagClassEngineerSkillDescription07C=In your attempts to take on aspects of the Safe Space Bot, you found that attempting to release energy similar to the machine was rather unhealthy for your internal organs. Instead, you focused on the aspects of survival which the machine stands for. You can use this to increase your survivability in several aspects. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName08A=Frankie's Faltered Focus Finder
+tagClassEngineerSkillDescription08A=Many of the fantastical inventions and techniques Engineers are capable of utilizing require absurd amounts of energy to work. Frankie used her knowledge to develop a small device which will put the user into a temporary meditative state. In this state, reaction time is greatly decreased, but the user will quickly feel completely revitalized. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName09A=Paul's Prevailing Punches
+tagClassEngineerSkillDescription09A=Engineers know how to tinker, but they aren't the greatest athletes. While arm mechanisms can improve the power, they can't improve the form. Paul decided to spend some time learning how to actually punch, and then he presented his findings so other engineers would be able to quickly learn. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName10A=Derek's Dirty Dispatch
+tagClassEngineerSkillDescription10A=All enemies have weak spots, it's just a matter of knowing where to shoot. Derek compiled a large tome filled with information on the weak spots of all known creatures, a tome which many engineers facing combat situations will often study on a regular basis. ^oRequires a ranged weapon.
