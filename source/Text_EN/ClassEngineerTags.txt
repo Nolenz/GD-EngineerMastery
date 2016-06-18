@@ -89,3 +89,12 @@ tagClassEngineerSkillDescription11B=The Flamer Bot has impressively resistant ca
 
 tagClassEngineerSkillName11C=Iconic Imitation: Incendiary Implement
 tagClassEngineerSkillDescription11C=Spitting fire is unhealthy for your face, but it may be possible to focus your energy into imitating the high resistance of the Flamer Bot. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName12A=Overdrive
+tagClassEngineerSkillDescription12A=A simple overdrive device will briefly route extra power to servos in your armor allowing for faster punches. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName12B=Excruciating Exhaust
+tagClassEngineerSkillDescription12B=Let off some extra steam, and damage your enemies in the process. The extra heat also increases fire damage.
+
+tagClassEngineerSkillName12C=Invasive Internal Improvements
+tagClassEngineerSkillDescription12C=This modification to the original device will speed up all of your other bodily functions for that extra edge in battle. And yes, all of them.
