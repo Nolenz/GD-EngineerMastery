@@ -79,3 +79,7 @@ tagClassEngineerSkillDescription09A=Engineers know how to tinker, but they aren'
 
 tagClassEngineerSkillName10A=Derek's Dirty Dispatch
 tagClassEngineerSkillDescription10A=All enemies have weak spots, it's just a matter of knowing where to shoot. Derek compiled a large tome filled with information on the weak spots of all known creatures, a tome which many engineers facing combat situations will often study on a regular basis. ^oRequires a ranged weapon.
+
+tagClassEngineerSkillName11A=Isaac's Incendiary Implement
+tagClassEngineerSkillDescription11A=Isaac, like many Engineers, had a passion for fire. The technology for flamethrowers had existed for a long time, but Isaac was the first to adapt it to a easily-deployable version that is durable enough to not explode constantly.
+tagClassEngineerPetFlamerBot=Flamer Bot
