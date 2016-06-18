@@ -50,7 +50,7 @@ tagClassEngineerSkillName05A=Connie's Charged Cannonball
 tagClassEngineerSkillDescription05A=With a bit of help from some of her arcanist friends, Connie created a gadget which allowed a standard firearm to propel a volatile cannonball forward. With a bit of aetherial energy and a few quick movements to set up a shot, anything is possible! ^oRequires a ranged weapon.
 
 tagClassEngineerSkillName05B=Rapid Replicating Rig
-tagClassEngineerSkillDescription05B=It is a well known fact that aether energy is strange, unpredictable, and alien. However, its effects start to get especially strange when you manage to compress enough of it into one small place. Increasing efforts to improve the cannonball firing method led to an amusing discovery: more cannonballs!
+tagClassEngineerSkillDescription05B=It is a well known fact that aetherial energy is strange, unpredictable, and alien. However, its effects start to get especially strange when you manage to compress enough of it into one small place. Increasing efforts to improve the cannonball firing method led to an amusing discovery: more cannonballs!
 
 tagClassEngineerSkillName05C=Overcharged Ordnance
 tagClassEngineerSkillDescription05C=All of this aether nonsense really corrupted the initial goal of the Cannonball project: Crowd control. These modifications aim to help bring the project back to its roots.
@@ -83,3 +83,9 @@ tagClassEngineerSkillDescription10A=All enemies have weak spots, it's just a mat
 tagClassEngineerSkillName11A=Isaac's Incendiary Implement
 tagClassEngineerSkillDescription11A=Isaac, like many Engineers, had a passion for fire. The technology for flamethrowers had existed for a long time, but Isaac was the first to adapt it to a easily-deployable version that is durable enough to not explode constantly.
 tagClassEngineerPetFlamerBot=Flamer Bot
+
+tagClassEngineerSkillName11B=Lessons Learned: Incendiary Implement
+tagClassEngineerSkillDescription11B=The Flamer Bot has impressively resistant casing to protect its fuel. After seeing it in action, you think you can adapt it for your other summons.
+
+tagClassEngineerSkillName11C=Iconic Imitation: Incendiary Implement
+tagClassEngineerSkillDescription11C=Spitting fire is unhealthy for your face, but it may be possible to focus your energy into imitating the high resistance of the Flamer Bot. ^oThis is a toggleable skill.
