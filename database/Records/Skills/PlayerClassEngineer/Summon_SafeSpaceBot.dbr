@@ -36,7 +36,7 @@ skillCooldownTime,30;29.5;29;28.5;28;27.5;27;26.5;26;25.5;25;24.5;24;23.5;23;22.
 skillDisplayName,tagClassEngineerSkillName07A,
 skillDownBitmapName,ui/skills/icons/class03/skillicon_ravensummon1down.tex,
 skillHitSound,records/sounds/skillsounds/class01/spak_rampageactivate01.dbr,
-skillManaCost,60;65;70;75;80;85;90;95;100;105;110;115;120;125;130;135;140;145;150,
+skillManaCost,100;105;110;115;120;125;130;135;140;145;150;160;170;180;190;200;210;220;230;240;250,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
