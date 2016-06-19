@@ -37,8 +37,9 @@ tagClassEngineerSkillName03A=Harry's Hands-free Hyper-gadgetry
 tagClassEngineerSkillDescription03A=Harry was part of the group of imperial engineers who advocated unarmed combat. In order to impress his superiors and convince them to his cause, he focused on delicate processes for improving gadgets, all of which require the speed and freedom provided by not carrying a weapon to be viable. ^oRequires you to be unarmed.
 
 tagClassEngineerSkillName04A=Samuel's Stationary Sentry
-tagClassEngineerSkillDescription04A=A simple stationary turret which exists for the sole purpose of shooting powerful rounds at enemies. No frills. Samuel had plans to make his creation mobile, but that required more power than it was capable of outputting. He settled for a stationary, but powerful, deployable defensive line.
+tagClassEngineerSkillDescription04A=A simple stationary turret which exists for the sole purpose of shooting powerful rounds at enemies. No frills. Samuel had plans to make his creation mobile, but that required more power than it was capable of outputting. He settled for a stationary, but powerful, deployable defensive line.  ^oScales with pet bonuses.
 tagClassEngineerPetSentry=Sentry Gun
+tagClassEngineerSentryAttack=Cannon Shot
 
 tagClassEngineerSkillName04B=Lessons Learned: Sentry
 tagClassEngineerSkillDescription04B=From using the sentry in combat, you've learned a thing or two about summons and defense.
@@ -62,8 +63,9 @@ tagClassEngineerSkillName06B=Pyro Punch
 tagClassEngineerSkillDescription06B=Adds a bit of power and a bit of fire. The added power is just enough to start knocking certain targets off their feet.
 
 tagClassEngineerSkillName07A=Stanley's Safe Space 
-tagClassEngineerSkillDescription07A=This "Safe Space" machine keeps your enemies at bay with invisible, punishing waves of energy for a short time before breaking down. Stanley made great efforts to sustain the machine longer, but it has the unfortunate tendency of tearing itself apart. This version of the machine is 30% less likely to maliciously reorganize its creator's internal organs. ^oWill remain active for 10 seconds. Active time and effective range will increase with skill level.
+tagClassEngineerSkillDescription07A=This "Safe Space" machine keeps your enemies at bay with invisible, punishing waves of energy for a short time before breaking down. Stanley made great efforts to sustain the machine longer, but it has the unfortunate tendency of tearing itself apart. This version of the machine is 30% less likely to maliciously reorganize its creator's internal organs. ^oWill remain active for 10 seconds. Active time and effective range will increase with skill level.  ^oScales with pet bonuses.
 tagClassEngineerPetSafeSpace=Safe Space Generator
+tagClassEngineerSafeSpaceAttack=Safe Space
 
 tagClassEngineerSkillName07B=Lessons Learned: Safe Space 
 tagClassEngineerSkillDescription07B=Use of the Safe Space Bot has led you to the discovery of a few defensive techniques. These techniques are applicable to both yourself and your summons.
@@ -81,8 +83,9 @@ tagClassEngineerSkillName10A=Derek's Dirty Dispatch
 tagClassEngineerSkillDescription10A=All enemies have weak spots, it's just a matter of knowing where to shoot. Derek compiled a large tome filled with information on the weak spots of all known creatures, a tome which many engineers facing combat situations will often study on a regular basis. ^oRequires a ranged weapon.
 
 tagClassEngineerSkillName11A=Isaac's Incendiary Implement
-tagClassEngineerSkillDescription11A=Isaac, like many Engineers, had a passion for fire. The technology for flamethrowers had existed for a long time, but Isaac was the first to adapt it to a easily-deployable version that is durable enough to not explode constantly.
+tagClassEngineerSkillDescription11A=Isaac, like many Engineers, had a passion for fire. The technology for flamethrowers had existed for a long time, but Isaac was the first to adapt it to a easily-deployable version that is durable enough to not explode constantly. ^oScales with pet bonuses.
 tagClassEngineerPetFlamerBot=Flamer Bot
+tagClassEngineerFlamerAttack=Flamethrower
 
 tagClassEngineerSkillName11B=Lessons Learned: Incendiary Implement
 tagClassEngineerSkillDescription11B=The Flamer Bot has impressively resistant casing to protect its fuel. After seeing it in action, you think you can adapt it for your other summons.
