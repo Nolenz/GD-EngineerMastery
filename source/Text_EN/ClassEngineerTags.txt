@@ -34,7 +34,7 @@ tagClassEngineerSkillName02E=Ignoring Safety Labels
 tagClassEngineerSkillDescription02E=Safety be damned! You want power, and you're confident your arms can handle these things at full capacity. You laugh at the thought of your arms shooting off your torso like missiles! Probably because that's actually a pretty funny thought to have.
 
 tagClassEngineerSkillName03A=Harry's Hands-free Hyper-gadgetry
-tagClassEngineerSkillDescription03A=Harry was part of the group of imperial engineers who advocated unarmed combat. In order to impress his superiors and convince them to his cause, he focused on delicate processes for improving gadgets, all of which require the speed and freedom provided by not carrying a weapon to be viable. ^oRequires you to be unarmed.
+tagClassEngineerSkillDescription03A=With deft hands and a series of clever techniques, Harry was able to provide boosts to the performance of summons, but only for short periods of time. However, there's no way you could pull this off while holding a weapon. ^oRequires you to be unarmed.
 
 tagClassEngineerSkillName04A=Samuel's Stationary Sentry
 tagClassEngineerSkillDescription04A=A simple stationary turret which exists for the sole purpose of shooting powerful rounds at enemies. No frills. Samuel had plans to make his creation mobile, but that required more power than it was capable of outputting. He settled for a stationary, but powerful, deployable defensive line.  ^oScales with pet bonuses.
@@ -74,7 +74,7 @@ tagClassEngineerSkillName07C=Iconic Imitation: Safe Space
 tagClassEngineerSkillDescription07C=In your attempts to take on aspects of the Safe Space Bot, you found that attempting to release energy similar to the machine was rather unhealthy for your internal organs. Instead, you focused on the aspects of survival which the machine stands for. You can use this to increase your survivability in several aspects. ^oThis is a toggleable skill.
 
 tagClassEngineerSkillName08A=Frankie's Faltered Focus Finder
-tagClassEngineerSkillDescription08A=Many of the fantastical inventions and techniques Engineers are capable of utilizing require absurd amounts of energy to work. Frankie used her knowledge to develop a small device which will put the user into a temporary meditative state. In this state, reaction time is greatly decreased, but the user will quickly feel completely revitalized. ^oThis is a toggleable skill.
+tagClassEngineerSkillDescription08A=Many of the fantastical inventions and techniques Engineers are capable of utilizing require absurd amounts of energy to work. Frankie used her knowledge to develop a small device which will put the user into a meditative state. In this state, reaction time is greatly decreased, but the user will quickly feel completely revitalized. Once revitalized, it is recommended to turn the device off, as it will have no further beneficial effects to your state of being. ^oThis is a toggleable skill.
 
 tagClassEngineerSkillName09A=Paul's Prevailing Punches
 tagClassEngineerSkillDescription09A=Engineers know how to tinker, but they aren't the greatest athletes. While arm mechanisms can improve the power, they can't improve the form. Paul decided to spend some time learning how to actually punch, and then he presented his findings so other engineers would be able to quickly learn. ^oRequires you to be unarmed.
