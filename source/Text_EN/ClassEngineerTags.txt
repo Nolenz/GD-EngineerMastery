@@ -101,3 +101,7 @@ tagClassEngineerSkillDescription12B=Let off some extra steam, and damage your en
 
 tagClassEngineerSkillName12C=Invasive Internal Improvements
 tagClassEngineerSkillDescription12C=This modification to the original device will speed up all of your other bodily functions for that extra edge in battle. And yes, all of them.
+
+tagClassEngineerSkillName13A=Foolish Occult Engineering
+tagClassEngineerSkillDescription13A=The creator of this technique was shunned for their eldritch tampering. Their name has been struck from all official documents and effectively lost to history. Hell, this technique doesn't even have a cool alliterated name. That's really saying something, since ignoring such a naming convention is blatantly against the Empire's Engineering Edicts and punishable by death. All that aside, you figured you'd try it out. It seems to imbue your attacks with a strange energy, occasionally causing a sentry to appear nearby with a flash of light and a chill down your spine. These turrets seem normal enough, but I'm an omniscient tooltip and trust me, I know better. ^oThis is a toggleable skill.
+tagClassEngineerPetSinisterSentry=Definitely Completely Mechanical Sentry Which Is Not Alive And Hungry
