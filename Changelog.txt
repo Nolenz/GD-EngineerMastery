@@ -1,0 +1,6 @@
+1.5 Changes
+
+Power Palms now works with flat bonus damage and such.
+Flamer's range now scales, and does slightly less damage.
+Safe Space does more electrocute damage.
+Imitate Sentry's %OA is now less nuclear.
