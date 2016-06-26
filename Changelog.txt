@@ -1,9 +1,10 @@
 1.5 Changes
 
-Power Palms now works with flat bonus damage and such.
+Power Palms now works with flat bonus damage and such. Preserving the scaling was extremely awkward, but I don't think I broke anything.
 Flamer's range now scales, and does slightly less damage.
 Imitate Sentry's %OA is now less nuclear.
 Safe space scaling has been changed. Starts with lower damage, Scales higher, cooldown has been increased slightly.
 Increased CD of Turf Turner.
-Ignoring Safety Labels health drain has been changed a bit. Harder to out-regen it, but still possible.
-**PENDING** Rework of Hands-Free skill. Again.
+Ignoring Safety Labels health drain has been changed a bit. Harder to out-regen it, but still probably possible.
+Rework of Hands-Free skill. Again.
+Invasive Internal Improvements has had its regen cut a bit.
