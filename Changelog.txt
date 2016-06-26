@@ -2,5 +2,8 @@
 
 Power Palms now works with flat bonus damage and such.
 Flamer's range now scales, and does slightly less damage.
-Safe Space does more electrocute damage.
 Imitate Sentry's %OA is now less nuclear.
+Safe space scaling has been changed. Starts with lower damage, Scales higher, cooldown has been increased slightly.
+Increased CD of Turf Turner.
+Ignoring Safety Labels health drain has been changed a bit. Harder to out-regen it, but still possible.
+**PENDING** Rework of Hands-Free skill. Again.
