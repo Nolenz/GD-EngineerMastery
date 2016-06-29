@@ -8,3 +8,11 @@ Increased CD of Turf Turner.
 Ignoring Safety Labels health drain has been changed a bit. Harder to out-regen it, but still probably possible.
 Rework of Hands-Free skill. Again.
 Invasive Internal Improvements has had its regen cut a bit.
+
+1.6 Changes
+
+Flamer range starts a little lower.
+Flamer damage nerf.
+**PENDING** Rework of Turf Turner.
+Overpowered Oscillators currently affects EVERYTHING while active. Added -Cast Speed to offset as intended.
+Updated Ignoring Safety Labels to also revert the new Cast Speed change.
