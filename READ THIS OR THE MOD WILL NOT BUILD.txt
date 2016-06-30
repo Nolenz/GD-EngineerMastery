@@ -1,0 +1,6 @@
+This mastery now has to use a custom skilltree template. The standard skilltree.tpl template only supports 35 skills,
+and I now require more than that. I made a custom template to account for this. The template is ONLY necessary when building the mod,
+it doesn't matter if standard players have the file or not.
+
+There is a skilltree_expanded.tpl file in the same directory as this text file.
+If you want to be able to build the mod successfully, you will need to place that file into your Grim Dawn\database\templates folder.
