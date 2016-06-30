@@ -1,7 +1,7 @@
 templateName,database/templates/player.tpl,
 ActorName,,
 Class,Player,
-FileDescription,,
+FileDescription,TEST,
 fallAnim,,
 riseAnim,,
 nwIdleTransitionAnim,,
