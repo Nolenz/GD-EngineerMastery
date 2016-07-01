@@ -16,3 +16,5 @@ Flamer damage nerf.
 **PENDING** Rework of Turf Turner.
 Overpowered Oscillators currently affects EVERYTHING while active. Added -Cast Speed to offset as intended.
 Updated Ignoring Safety Labels to also revert the new Cast Speed change.
+**PENDING** Crossover skills!
+**PENDING** Summon Skill Maker script to save a lot of time...
