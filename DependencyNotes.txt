@@ -1,0 +1,17 @@
+Arcanist
+skillDependancy,records/skills/playerclass05/_classtraining_class05.dbr,
+
+Demo
+skillDependancy,records/skills/playerclass02/_classtraining_class02.dbr,
+
+Nightblade
+skillDependancy,records/skills/playerclass04/_classtraining_class04.dbr,
+
+Occultist
+skillDependancy,records/skills/playerclass03/_classtraining_class03.dbr,
+
+Shaman
+skillDependancy,records/skills/playerclass06/_classtraining_class06.dbr,
+
+Soldier
+skillDependancy,records/skills/playerclass01/_classtraining_class01.dbr,
