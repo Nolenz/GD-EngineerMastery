@@ -284,7 +284,7 @@ skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchup.tex;ui/sk
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,0.000000,
 skillCooldownTime,0,
-skillDisplayName,tagClassEngineerSafeSpaceAttack,
+skillDisplayName,tagClassEngineerPetNightbladeAttack,
 skillDownBitmapName,,
 skillHitSound,records/sounds/skillsounds/class06/spak_stormtotem_attack.dbr,
 skillManaCost,0,
