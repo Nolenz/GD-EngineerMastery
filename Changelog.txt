@@ -18,3 +18,5 @@ Overpowered Oscillators currently affects EVERYTHING while active. Added -Cast S
 Updated Ignoring Safety Labels to also revert the new Cast Speed change.
 **PENDING** Crossover skills!
 **PENDING** Summon Skill Maker script to save a lot of time...
+**PENDING** Excruciating Exhaust was awful and I can't believe I forgot about it. Remedied.
+Pet skills now visibly scale with pet bonuses.
