@@ -9,6 +9,7 @@ Ignoring Safety Labels health drain has been changed a bit. Harder to out-regen 
 Rework of Hands-Free skill. Again.
 Invasive Internal Improvements has had its regen cut a bit.
 
+
 1.6 Changes
 
 Flamer range starts a little lower.
@@ -18,8 +19,17 @@ Overpowered Oscillators currently affects EVERYTHING while active. Added -Cast S
 Updated Ignoring Safety Labels to also revert the new Cast Speed change.
 Crossover skills! Attempted balance, probably failed miserably as usual. Enjoy.
 Excruciating Exhaust was a bit underwhelming. Boosted the fire damage a bunch since it's a burst skill anyway.
-Pet skills now visibly scale with pet bonuses.
+Pet skills now VISIBLY scale with pet bonuses.
 Removed little icon under the exclusive skill. Doesn't need to be there.
+
+
+1.7 Changes
+
+Flipped mastery button. Darn exporter gave it to me upside down in the first place.
+Occultist Crossover: Cut damage
+Demo Crossover: Less fragments, less attack rate.
+Soldier Crossover: Less explosion radius, slightly less attack rate.
+Nightblade Crossover: Hopefully actually invincible now, big OA boost so it actually hits, lower fuse.
 
 Research:
 	**PENDING** Summon Skill Maker script to save a lot of time...

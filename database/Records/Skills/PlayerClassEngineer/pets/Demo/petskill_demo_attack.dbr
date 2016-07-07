@@ -273,8 +273,8 @@ offensiveTauntMin,0.000000,
 offensiveTauntXOR,0,
 particleEffectAttachPoint1,Head,
 projectileExplosionRadius,4.500000,
-projectileFragmentsLaunchNumberMax,6;6;7;7;7;8;8;8;9;9;9;10;10;10;10;10;10;11;11;11;11;12,
-projectileFragmentsLaunchNumberMin,4;4;5;5;5;6;6;6;7;7;7;8;8;8;8;8;8;9;9;9;9;10,
+projectileFragmentsLaunchNumberMax,4;4;4;4;4;4;5;5;5;5;5;5;6;6;6;6;6;6;7;7;7;7;7;7;8;8;8;8;9;9;
+projectileFragmentsLaunchNumberMin,2;2;2;2;3;3;3;3;4;4;4;4;4;4;5;5;5;5;5;5;6;6;6;6;6;6;7;7;8;8;
 projectileFragmentsName,records/fx/skillclass02/canisterbomb1_fragment_projectilefx01.dbr,
 projectileUsesAllDamage,0,
 ragDollAmplification,1.250000,
