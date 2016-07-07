@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillswindow.tpl,
 ActorName,,
 Class,,
-FileDescription,SkillsWindow,
+FileDescription,SkillsWindowTEST,
 skillsWindowTitle,,
 skillsWindowReallocationTitle,records/ui/skills/skills_titlereallocation.dbr,
 skillsBaseBitmap,records/ui/skills/skills_classwindowbackgroundimage.dbr,

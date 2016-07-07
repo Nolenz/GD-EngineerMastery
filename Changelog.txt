@@ -13,6 +13,14 @@ Invasive Internal Improvements has had its regen cut a bit.
 
 Flamer range starts a little lower.
 Flamer damage nerf.
-**PENDING** Rework of Turf Turner.
+Small rework of Turf Turner.
 Overpowered Oscillators currently affects EVERYTHING while active. Added -Cast Speed to offset as intended.
 Updated Ignoring Safety Labels to also revert the new Cast Speed change.
+Crossover skills! Attempted balance, probably failed miserably as usual. Enjoy.
+Excruciating Exhaust was a bit underwhelming. Boosted the fire damage a bunch since it's a burst skill anyway.
+Pet skills now visibly scale with pet bonuses.
+Removed little icon under the exclusive skill. Doesn't need to be there.
+
+Research:
+	**PENDING** Summon Skill Maker script to save a lot of time...
+	**PENDING** DAIL increased the size of the mastery menu somehow. Figure out how. Probably have to ask unless something obvious jumps out.
