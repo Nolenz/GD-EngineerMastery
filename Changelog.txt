@@ -31,6 +31,12 @@ Demo Crossover: Less fragments, less attack rate.
 Soldier Crossover: Less explosion radius, slightly less attack rate.
 Nightblade Crossover: Hopefully actually invincible now, big OA boost so it actually hits, lower fuse.
 
+
+1.8 Changes
+
+**PENDING** Made Sentry Imitation also increase Cast Speed (not quite as much as attack speed, though.) Provides something for casty-classes.
+
+
 Research:
 	**PENDING** Summon Skill Maker script to save a lot of time...
 	**PENDING** DAIL increased the size of the mastery menu somehow. Figure out how. Probably have to ask unless something obvious jumps out.
